@@ -1,8 +1,7 @@
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.*;
 
 public class StudentGrades {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<Double> grades = new ArrayList<>();
 
